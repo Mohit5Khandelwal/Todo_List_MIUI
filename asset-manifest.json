@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Todo_List_MIUI/static/css/main.d6cfe5b2.css",
+    "main.js": "/Todo_List_MIUI/static/js/main.11a711ed.js",
+    "index.html": "/Todo_List_MIUI/index.html",
+    "main.d6cfe5b2.css.map": "/Todo_List_MIUI/static/css/main.d6cfe5b2.css.map",
+    "main.11a711ed.js.map": "/Todo_List_MIUI/static/js/main.11a711ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6cfe5b2.css",
+    "static/js/main.11a711ed.js"
+  ]
+}
